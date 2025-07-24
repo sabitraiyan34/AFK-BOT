@@ -1,0 +1,1 @@
+just change ur server IP and port and u can customize the bot account or messages it gives. It works for cracked servers as well. and yeah use it on replit json. remix here -> https://replit.com/@sabitraiyansuha/AFK-BOT#settings.json
