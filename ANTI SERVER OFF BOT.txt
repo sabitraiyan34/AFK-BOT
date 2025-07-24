@@ -1,0 +1,52 @@
+{
+  "bot-account": {
+    "username": "sabitAFKBOT", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "SURVIVALsghsc.aternos.me", 
+    "port": 48213,   
+    "version": "1.12.1"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "Sabit is the best fr",
+        "Hacking = Ban",
+        "Please don't hack and play fair",
+        "I love you all for playing fair",
+        "hehehehehehe",
+        "I can see ur monitor btw"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-respawn": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 10
+  }
+}
